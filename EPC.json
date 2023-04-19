@@ -1,0 +1,10 @@
+{
+	"hpath": "$ANIMOCA",
+
+		"env":  [
+			{
+				"ANIMOCA": "Z:/RnD/Houdini/hda/"
+			}
+		],
+		
+}
